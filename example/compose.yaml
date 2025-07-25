@@ -1,6 +1,6 @@
 services:
   summaly:
-    image: ghcr.io/yamisskey/summaly-docker:latest
+    image: ghcr.io/yamisskey-dev/summaly-docker:latest
     container_name: 'summaly'
     hostname: 'summaly'
     restart: always
